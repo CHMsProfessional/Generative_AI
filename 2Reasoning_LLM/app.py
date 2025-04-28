@@ -38,8 +38,9 @@ def home():
             </style>
         </head>
         <body>
-            
-            <h1>DeepSeek - Chatbot</h1>
+            <h1>© Copyright Notice 2025, Khipus.ai - All Rights Reserved</h1>
+            <h1>Assignment 2: DeepSeek - Chatbot</h1>
+            <h1>Name: (add your name)</h1>
           
             <div id="chat">
                 <div id="messages"></div>
