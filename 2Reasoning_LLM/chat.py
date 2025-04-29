@@ -21,7 +21,7 @@ client = ChatCompletionsClient(
 response = client.complete(
     messages=[
         SystemMessage(content="You are a helpful assistant."),
-        UserMessage(content="Can you use python for creating a frontend app?"),
+        UserMessage(content="What is deeplearning?"),
     ],
     model="DeepSeek-R1"  # Specify the model parameter
 )
