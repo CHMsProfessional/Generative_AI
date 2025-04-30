@@ -1,7 +1,9 @@
-# DeepSeek R1 Chatbot 
+# Khipus.ai
+## Reasoning  LLM
+### Assignment 2: DeepSeek Chatbot
 
 
-This project is a Flask-based web app that integrates with Azure's AI Inference to provide a chatbot experience with incremental streaming of responses. Follow these instructions to run the repository on your local environment.
+This Assignment is a Flask-based web app that integrates with Azure's AI Inference to provide a chatbot experience with incremental streaming of responses. Follow these instructions to run the repository on your local environment.
 
 ## Prerequisites
 
@@ -63,7 +65,4 @@ By default, the app will start on `http://127.0.0.1:5000/`.
 - **Environment Variables:** Ensure your `.env` file is in the same directory as `app.py` and contains correct values.
 - **Dependency Issues:** If installation of dependencies fails, ensure you are using the correct Python version.
 
-## Additional Information
 
-- For deployment to Azure using GitHub Actions, refer to the [GitHub Actions workflow](.github/workflows/main_deepseeksnp.yml) file.
-- For detailed information on Azure deployment best practices, check the official [Azure Web Apps documentation](https://docs.microsoft.com/en-us/azure/app-service/).
