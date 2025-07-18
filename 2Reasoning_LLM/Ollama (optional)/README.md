@@ -2,11 +2,6 @@
 # Running Large Language Models Locally with **Ollama** on Windows
 # © Copyright Notice 2025, Khipus.ai - All Rights Reserved.
 
-> Prepared by **Said Nikjou** (Data Scientist & Professor, Khipus.ai)
->
-> Last updated: 2025‑07‑18
-
----
 
 ## Table of Contents
 
