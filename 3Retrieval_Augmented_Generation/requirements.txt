@@ -2,6 +2,7 @@ pinecone
 langchain
 openai
 langchain-community
+langchain_pinecone
 pdfminer
 unstructured
 pdfminer.six
