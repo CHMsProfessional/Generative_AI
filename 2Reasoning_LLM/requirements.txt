@@ -1,5 +1,4 @@
-azure-core
-azure-ai-inference
+openai>=1.99.9,<3
 python-dotenv
 flask
 uvicorn
